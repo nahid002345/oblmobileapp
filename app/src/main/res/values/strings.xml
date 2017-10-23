@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">OBL Mobile App</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_UserId">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login Request</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_token_otp">OTP</string>
+    <string name="title_activity_maps">Branch</string>
+    <string name="token_label">TOKEN ID :</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_token">TokenActivity</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="loan_amount">Loan Amount</string>
+    <string name="interest_rate">Interest Rate (%)</string>
+    <string name="token_id">Token ID</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+    <string name="reset">Reset</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="string_otp">OTP</string>
+    <string name="string_token_label">Token ID</string>
+    <string name="string_otp_login">Login</string>
+    <string name="card_list_header_text">Card/s List</string>
+    <string name="ac_list_header_text">Account/s List</string>
+    <string name="ac_detail_header_text">Account Detail</string>
+    <string name="string_user_current_location_tag">I am HERE!</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <!--<item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>-->
+    </array>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Create</item>
+        <item>Read</item>
+        <item>Help</item>
+    </string-array>
+    <string name="title_activity_contact_center">ContactCenterActivity</string>
+    <string name="action_label_loan_amount">Loan Amount</string>
+    <string name="lbl_total_month">Total Months</string>
+    <string name="lbl_from_date">From Date</string>
+    <string name="lbl_to_date">To Date</string>
+
+    <string name="option_select">Select</string>
+    <string name="str_lbl_er_amount">Amount</string>
+    <string name="string_under_process_go_back">Back</string>
+    <string name="string_under_process_message">On Development Process</string>
+    <string name="string_sign_up">Sign Up</string>
+    <string name="str_btn_account">Account</string>
+    <string name="str_btn_loan">Loan</string>
+    <string name="str_btn_credit_card">Credit Card</string>
+    <string name="str_btn_fund_transfer">Fund Transfer</string>
+    <string name="str_btn_bill_pay">Bill Pay</string>
+    <string name="str_btn_loan_calculator">Loan Calculator</string>
+    <string name="str_btn_exchange_rate">Exchange Rate</string>
+    <string name="str_btn_branchs">Branches</string>
+    <string name="str_btn_atm_location">ATM Location</string>
+    <string name="str_btn_contact_center">Contact Center</string>
+    <string name="str_btn_log_out">Log Out</string>
+    <string name="str_btn_login">Login</string>
+    <string name="str_btn_test">Test</string>
+    <string-array name="exchange_rate_currency">
+        <item>USD</item>
+        <item>GBP</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+
+    <string-array name="exchange_rate_type">
+        <item>BUY</item>
+        <item>SELL</item>
+    </string-array>
+
+</resources>

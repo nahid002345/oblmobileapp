@@ -1,0 +1,85 @@
+package com.app.obl.oblmobileapp.activity;
+
+import android.location.Location;
+import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
+
+import com.app.obl.oblmobileapp.R;
+import com.app.obl.oblmobileapp.helper.GPSTracker;
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class TestPageActivity extends FragmentActivity implements OnMapReadyCallback {
+
+    private GoogleMap mMap;
+    private Location mCurrentLocation;
+    Map<LatLng,String> branchLocation= new HashMap<LatLng,String>() {
+        {
+            put(new LatLng(23.753888, 90.39236024),"ONE Bank Ltd. Corporate HQ");
+            put(new LatLng(23.7880925, 90.4162145),"ONE Bank Ltd. Gulshan Branch");
+            put(new LatLng(23.793309, 90.4087244),"ONE Bank Ltd. Banani Branch");
+        }
+    };
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_test_page);
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map_test);
+        mapFragment.getMapAsync(this);
+    }
+
+
+    /**
+     * Manipulates the map once available.
+     * This callback is triggered when the map is ready to be used.
+     * This is where we can add markers or lines, add listeners or move the camera. In this case,
+     * we just add a marker near Sydney, Australia.
+     * If Google Play services is not installed on the device, the user will be prompted to install
+     * it inside the SupportMapFragment. This method will only be triggered once the user has
+     * installed Google Play services and returned to the app.
+     */
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        LatLng currentLocation=new LatLng(23.753888, 90.39236024);;
+        GPSTracker mGPSTracker=new GPSTracker(getApplicationContext());
+        if(mGPSTracker.location != null)
+        {
+            currentLocation= new LatLng(mGPSTracker.location.getLatitude(),mGPSTracker.location.getLongitude());
+            mMap.addMarker(new MarkerOptions().position(currentLocation).title(getString(R.string.string_user_current_location_tag)));
+        }
+        else
+        {
+            mGPSTracker.showSettingsAlert();
+        }
+
+        for(Map.Entry<LatLng,String> mapCordinateKey : branchLocation.entrySet()){
+            mMap.addMarker(new MarkerOptions().position(mapCordinateKey.getKey()).title(mapCordinateKey.getValue()));
+        }
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(currentLocation, 12.0f));
+    }
+
+    private LatLng NearestPlace(List<Location> placeList, Location userPosition)
+    {
+        LatLng nearestPlace=null;
+
+        float[] distanceList=new float[placeList.size()];
+        int iterator=0;
+        for (Location latLang: placeList
+             ) {
+            distanceList[iterator]= userPosition.distanceTo(latLang);
+            iterator++;
+        }
+
+        return nearestPlace;
+    }
+}

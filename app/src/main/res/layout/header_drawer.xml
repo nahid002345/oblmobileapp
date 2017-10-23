@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/nav_header_container"
+        style="@style/nav_drawer_header"
+        android:layout_width="match_parent"
+        android:background="@drawable/detail_header_border_shadow">
+
+        <ImageView
+            android:id="@+id/ic_drawer_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/dimen_image_pad"
+            android:src="@drawable/ic_people" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/ic_drawer_profile"
+            android:layout_centerInParent="true">
+
+            <com.app.obl.oblmobileapp.font.RobotoTextView
+                android:id="@+id/txt_drawer_user_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="User Id"
+                android:textSize="@dimen/dimen_nav_drawer_text_size"
+                app:typeface="robotoLight"
+                />
+
+            <com.app.obl.oblmobileapp.font.RobotoTextView
+                android:id="@+id/txt_drawer_user_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_drawer_user_id"
+                android:text="00000000000"
+                android:textSize="@dimen/dimen_nav_drawer_text_size"
+                app:typeface="robotoLight" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</LinearLayout>

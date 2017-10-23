@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<branches>
+    <branch>
+        <branchname>AGRABAD BRANCH</branchname>
+        <branchaddress>95, Agrabad C.A., Chittagong</branchaddress>
+        <branchphone>(88-031)-721384, 726295, 711198</branchphone>
+        <branchmobile>01777734332</branchmobile>
+        <branchemail>manager.agrabad@onebank.com.bd</branchemail>
+        <branchlongitude>91.81502</branchlongitude>
+        <branchlattitude>22.326252</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>AMISHAPARA BRANCH</branchname>
+        <branchaddress>Nurjahan Super Market Modhom Bazar, Bhadragram Amishapara, Sonaimuri, Noakhali</branchaddress>
+        <branchmobile>01766667024</branchmobile>
+        <branchemail>manager.amishapara@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>ANDERKILLA BRANCH</branchname>
+        <branchaddress>RAC Chamber, 37 Raja Pukur Lane, Kotwali, Chittagong.</branchaddress>
+        <branchphone>031-2851612-14</branchphone>
+        <branchmobile>01766667014</branchmobile>
+        <branchemail>manager.anderkilla@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>ANOWARA BRANCH</branchname>
+        <branchaddress>Mohsen Awlia Shopping Complex, Anowara Barkal Road, Upazila Sadar, Anowara, Chittagong</branchaddress>
+        <branchphone>03029 - 56142, 56143, 56144</branchphone>
+        <branchmobile>01766667019</branchmobile>
+        <branchemail>manager.anowara@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>AUST BOOTH BRANCH</branchname>
+        <branchaddress>AHSANULLAH UNIVERSITY OF SCIENCE AND TECHNOLOGY. 141-142, LOVE ROAD, TEJGAON I/A, DHAKA-1208, BANGLADESH.</branchaddress>
+        <branchmobile>01713380675</branchmobile>
+        <branchemail>anu.kbz@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>BAGHABARI BOOTH BRANCH</branchname>
+        <branchaddress>Aziz Mansion, Baghabari Ghat, Sirajgong</branchaddress>
+        <branchmobile>01730703591</branchmobile>
+    </branch>
+    <branch>
+        <branchname>BANANI BRANCH</branchname>
+        <branchaddress>Plot 158, Block E, Banani R.A., Dhaka</branchaddress>
+        <branchphone>(88-02)-8824423, 8823427</branchphone>
+        <branchmobile>01755594067</branchmobile>
+        <branchemail>manager.banani@onebank.com.bd</branchemail>
+        <branchlongitude>90.410056</branchlongitude>
+        <branchlattitude>23.792668</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>BANASREE BRANCH</branchname>
+        <branchaddress>Al-Kauser Palace, House # 2, Road # 5, Block-D, Banasree R/A, Dhaka</branchaddress>
+        <branchphone>(88-02) 7287739, 7287993</branchphone>
+        <branchmobile>01730319830</branchmobile>
+        <branchemail>manager.banasree@onebank.com.bd</branchemail>
+        <branchlongitude>90.42826</branchlongitude>
+        <branchlattitude>23.757408</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>BANGSHAL BRANCH</branchname>
+        <branchaddress>22, Bangshal Road, Bangshal, Dhaka</branchaddress>
+        <branchphone>(88-02)-7111677</branchphone>
+        <branchmobile>01730736347</branchmobile>
+        <branchemail>manager.bangshal@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>BARISAL BRANCH</branchname>
+        <branchaddress>K Jahan Centre, 106, Sadar Road, Kotwali, Barisal</branchaddress>
+        <branchphone>(88-0431)-64537, 64538, 2177568</branchphone>
+        <branchmobile>01755594078</branchmobile>
+        <branchemail>manager.bsl@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>BASABO BRANCH</branchname>
+        <branchaddress>Dhaka Complex Pvt. Ltd., 1/Ga, Central Basabo, Sabujbagh, Dhaka</branchaddress>
+        <branchphone>(88-02)-7811336-38</branchphone>
+        <branchmobile>01730736290</branchmobile>
+        <branchemail>manager.basabo@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>BIBIRHAT BRANCH</branchname>
+        <branchaddress>ONE Bank Limited </branchaddress>
+        <branchemail>manager.bibirhat@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Boalkhali Branch</branchname>
+        <branchaddress>Joinab Tower (1st floor), Gomdondi, Boalkhali Sadar, Chittagong</branchaddress>
+        <branchphone>03032 – 56181, 56182, 56183</branchphone>
+        <branchmobile>01755594061</branchmobile>
+        <branchemail>manager.boalkhali@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>BOGRA BRANCH</branchname>
+        <branchaddress>Jamil Building, Borogola, Bogra</branchaddress>
+        <branchphone>(88-051)-69850, 69860</branchphone>
+        <branchmobile>01713201578</branchmobile>
+        <branchemail>manager.bogra@onebank.com.bd</branchemail>
+        <branchlongitude>89.372398</branchlongitude>
+        <branchlattitude>24.85439</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>BRAHMANBARIA BRANCH</branchname>
+        <branchaddress>Bhuiyan Mansion 1081, Masjid Road, Brahmanbaria.</branchaddress>
+        <branchphone>0851-59455, 59466, 63452</branchphone>
+        <branchmobile>01755594066</branchmobile>
+        <branchemail>manager.brb@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>CDA AVENUE BRANCH</branchname>
+        <branchaddress>Avenue Center, 787/A, CDA Avenue, East Nasirabad, Kotwali, Chittagong</branchaddress>
+        <branchphone>(88-031)-2858151-53</branchphone>
+        <branchmobile>01730323091</branchmobile>
+        <branchemail>manager.cdaavenue@onebank.com.bd</branchemail>
+        <branchlongitude>91.821718</branchlongitude>
+        <branchlattitude>22.357427</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>CHANDGAON BRANCH</branchname>
+        <branchaddress>Khawaja Complex 170/D, Arakan Road chandgaon, Chittagong</branchaddress>
+        <branchphone>031-2573291-93</branchphone>
+        <branchmobile>01755594065</branchmobile>
+        <branchemail>manager.cdn@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>CHANDRAGONJ BRANCH</branchname>
+        <branchaddress>Chandragonj Bazar, Lakshmipur</branchaddress>
+        <branchmobile>01714041531</branchmobile>
+        <branchemail>manager.chandragonj@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Chaprashir Hat SME / Agriculture Branch</branchname>
+        <branchaddress>Akash Shopping Centre, Bank Road, Purba Bazar, Chaprashir Hat, Companygonj, Noakhali</branchaddress>
+        <branchphone>03232 – 53048, 53049</branchphone>
+        <branchmobile>01766667026</branchmobile>
+        <branchemail>manager.chaprashirhat@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>CHATERPAIYA BRANCH</branchname>
+        <branchaddress>Nurjahan Complex </branchaddress>
+        <branchmobile>01777734337</branchmobile>
+        <branchemail>manager.chaterpaiya@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>CHATKHIL BRANCH</branchname>
+        <branchaddress>Dr. Bashar Plaza</branchaddress>
+        <branchphone>03222 – 75351 -3</branchphone>
+        <branchmobile>01777734339</branchmobile>
+        <branchemail>manager.chatkhil@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>CHITTAGONG BRANCH</branchname>
+        <branchmobile>NA</branchmobile>
+    </branch>
+    <branch>
+        <branchname>CHITTAGONG EPZ BRANCH</branchname>
+        <branchaddress>ONE Bank Limited           Hossain Complex, 1956 A/ 2098</branchaddress>
+        <branchphone>031-800231, 8800232</branchphone>
+        <branchemail>manager.chittagongepz@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>CHOWMUHUNI BRANCH</branchname>
+        <branchaddress>Bhuiyan Market, D.B. Road, Railgate, Chowmuhuni, Noakhali</branchaddress>
+        <branchphone>(88-0321)-52098</branchphone>
+        <branchmobile>01714040436</branchmobile>
+        <branchemail>manager.chowmuhuni@onebank.com.bd</branchemail>
+        <branchlongitude>91.120782</branchlongitude>
+        <branchlattitude>22.945715</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>Comilla Branch</branchname>
+        <branchaddress>Habiba Mansion, 358, Monoharpur, Comilla</branchaddress>
+        <branchphone>(88-081)-63001, 63004</branchphone>
+        <branchmobile>01730736289</branchmobile>
+        <branchemail>manager.comilla@onebank.com.bd</branchemail>
+        <branchlongitude>91.182861</branchlongitude>
+        <branchlattitude>23.461193</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>CORPORATE HQ BRANCH</branchname>
+        <branchaddress>HRC Bhaban, 46, Kawranbazar, Dhaka - 1215</branchaddress>
+        <branchphone>(8802)-9118161</branchphone>
+        <branchemail>info@onebank.com.bd</branchemail>
+        <branchlongitude>90.392418</branchlongitude>
+        <branchlattitude>23.754106</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>COXS BAZAR BRANCH</branchname>
+        <branchaddress>Monora Complex, East Laldighir Par, Court Hill Lane, Main Road, Coxs Bazar</branchaddress>
+        <branchphone>(88-0341)-51113-14</branchphone>
+        <branchmobile>01755594085</branchmobile>
+        <branchemail>manager.coxsbazar@onebank.com.bd</branchemail>
+        <branchlongitude>91.975837</branchlongitude>
+        <branchlattitude>21.443438</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>CUSTOOM BOOTH BRANCH</branchname>
+        <branchaddress>Lab Bhaban, Custom House, Chittagong</branchaddress>
+        <branchmobile>NA</branchmobile>
+    </branch>
+    <branch>
+        <branchname>DAGON BHUIYAN BRANCH</branchname>
+        <branchaddress>Khair Shopping Complex, Fazilaer Ghat Road, Dagon Bhuiyan, Feni</branchaddress>
+        <branchphone>(88-03323)-79097-98</branchphone>
+        <branchmobile>01714109928</branchmobile>
+        <branchemail>manager.dagonbhuiyan@onebank.com.bd</branchemail>
+        <branchlongitude>91.303863</branchlongitude>
+        <branchlattitude>22.937072</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>DHANMONDI BRANCH</branchname>
+        <branchaddress>House No. 21, Road No. 8, Dhanmondi R/A, Dhaka</branchaddress>
+        <branchphone>(88-02)-9139224, 9120790, 8120672</branchphone>
+        <branchmobile>01730329899</branchmobile>
+        <branchemail>manager.dhanmondi@onebank.com.bd</branchemail>
+        <branchlongitude>90.381506</branchlongitude>
+        <branchlattitude>23.74581</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>DOVASHI BAZAR BRANCH</branchname>
+        <branchaddress>Tayabia Madrasa Market, Chandraghona, Rangunia, Chittagong</branchaddress>
+        <branchmobile>01755594073</branchmobile>
+        <branchemail>manager.dvb@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>DSE BOTH BRANCH</branchname>
+        <branchaddress>DSE Annex Bhaban, 9/E Motijheel</branchaddress>
+        <branchmobile>NA</branchmobile>
+    </branch>
+    <branch>
+        <branchname>ELEPHANT ROAD BRANCH</branchname>
+        <branchaddress>Globe Center(1st Floor), 216, Elephant Road, New Market, Dhaka</branchaddress>
+        <branchphone>028626524-26</branchphone>
+        <branchmobile>01714134975</branchmobile>
+        <branchemail>manager.elephantroad@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>FARIDPUR BRANCH</branchname>
+        <branchaddress>ONE Bank Limited</branchaddress>
+        <branchphone>0631- 62483, 62484</branchphone>
+        <branchemail>manager.faridpur@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>FENI BRANCH</branchname>
+        <branchaddress>Zulfikar Chamber (1st &amp; 2nd Floor), 244, Islampur Road, Feni</branchaddress>
+        <branchphone>(88-0331)-62362, 62267, 62367</branchphone>
+        <branchmobile>01714134976</branchmobile>
+        <branchemail>manager.feni@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>GANAKBARI BRANCH</branchname>
+        <branchaddress>Somser Plaza(2nd Floor), Ganakbari, Savar, Dhaka</branchaddress>
+        <branchphone>(88-02)-7789653-54</branchphone>
+        <branchmobile>01711830124</branchmobile>
+        <branchemail>manager.ganakbariepz@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>GULSHAN BRANCH</branchname>
+        <branchaddress>97, Gulshan Avenue, Dhaka</branchaddress>
+        <branchphone>(88-02)-9890138-40</branchphone>
+        <branchmobile>01730311576</branchmobile>
+        <branchemail>manager.gulshan@onebank.com.bd</branchemail>
+        <branchlongitude>90.428938</branchlongitude>
+        <branchlattitude>23.787956</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>HALISHAHAR BRANCH</branchname>
+        <branchaddress>House # 2, Road # 3, Block # L, Halishahar Housing Estate, Boropole, Chittagong</branchaddress>
+        <branchphone>031-727712, 727713, 727714</branchphone>
+        <branchmobile>01755594075</branchmobile>
+        <branchemail>manager.hsb@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>HATHAZARI BRANCH</branchname>
+        <branchaddress>J &amp; G Shopping Complex, Ramgor Road, Hathazari Bus Station, Hathazari, Chittagong</branchaddress>
+        <branchphone>(88-031)-2602003-5</branchphone>
+        <branchmobile>01755594076</branchmobile>
+        <branchemail>manager.hzb@onebankbd.com</branchemail>
+        <branchlongitude>91.806687</branchlongitude>
+        <branchlattitude>22.49948</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>IMAMGONJ BRANCH</branchname>
+        <branchaddress>18, Roy Iswar Chandra Shill Bahadur Street (1st Floor), Imamganj, Dhaka</branchaddress>
+        <branchphone>(88-02)-7316477, 7316488</branchphone>
+        <branchmobile>01730320300</branchmobile>
+        <branchemail>manager.imamgonj@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>ISLAMPUR BRANCH</branchname>
+        <branchaddress>Kayum Complex (1st Floor), Islampur Bazar, Sylhet</branchaddress>
+        <branchphone>(88-0821)-761670, 761725</branchphone>
+        <branchmobile>01730353526</branchmobile>
+        <branchemail>manager.islampur@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>JAGANNATHPUR BRANCH</branchname>
+        <branchaddress>Ka-43, Jagannathpur, Nadda, Dhaka</branchaddress>
+        <branchphone>(88-02)-8415612-14</branchphone>
+        <branchmobile>01730703592</branchmobile>
+        <branchemail>manager.jagannathpur@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>JATRABARI BRANCH</branchname>
+        <branchaddress>Mansur Complex (1st Floor), 249/B/2, South Jatarabari, Dhaka</branchaddress>
+        <branchphone>(88-02)-7554800-2</branchphone>
+        <branchmobile>01714134977</branchmobile>
+        <branchemail>manager.jatrabari@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>JESSORE BRANCH</branchname>
+        <branchaddress>M.S. Orchid Centre, 44, M.K. Road, Jessore</branchaddress>
+        <branchphone>(88-0421)-68046-48</branchphone>
+        <branchmobile>01714041281</branchmobile>
+        <branchemail>manager.jessore@onebank.com.bd</branchemail>
+        <branchlongitude>89.213471</branchlongitude>
+        <branchlattitude>23.165124</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>JOYPARA BRANCH</branchname>
+        <branchaddress>Monowara Mansion, Joypara Bazar, Latakhola, Raipara, Dohar, Dhaka</branchaddress>
+        <branchphone>(88-02)-7768161</branchphone>
+        <branchmobile>01713005868</branchmobile>
+        <branchemail>manager.joypara@onebank.com.bd</branchemail>
+        <branchlongitude>90.117951</branchlongitude>
+        <branchlattitude>23.618913</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>JUBILEE ROAD BRANCH</branchname>
+        <branchaddress>Kader Tower (2nd Floor), 128, Jubilee Road, Chittagong</branchaddress>
+        <branchphone>(88-031)-2853112-15</branchphone>
+        <branchmobile>01714110245</branchmobile>
+        <branchemail>manager.jubileeroad@onebank.com.bd</branchemail>
+        <branchlongitude>91.836154</branchlongitude>
+        <branchlattitude>22.34215</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>KAKRAIL BRANCH</branchname>
+        <branchaddress>Musafir Tower 90, Kakrail, Dhaka</branchaddress>
+        <branchphone>(88-02)-8300043, 8300045</branchphone>
+        <branchmobile>01713458178</branchmobile>
+        <branchemail>manager.kakrail@onebank.com.bd</branchemail>
+        <branchlongitude>90.407213</branchlongitude>
+        <branchlattitude>23.709743</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>KAWRANBAZAR BRANCH</branchname>
+        <branchaddress>HRC Bhaban, 46, Kawaran, Bazar C/A, Dhaka</branchaddress>
+        <branchphone>(88-02)-8156054, 8155158, 9128584</branchphone>
+        <branchmobile>01713066242</branchmobile>
+        <branchemail>manager.kawranbazar@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>KHATUNGONJ BRANCH</branchname>
+        <branchaddress>110-111, Khatungonj, Chittagong</branchaddress>
+        <branchphone>(88-031)-619377, 621252, 635645, 635526</branchphone>
+        <branchmobile>0171338521</branchmobile>
+        <branchemail>manager.khatungonj@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Khulna Branch</branchname>
+        <branchaddress>J.K. Tower, 79 Khan-A-Sabur Road, Picture Palace, Khulna.</branchaddress>
+        <branchphone>041-813339,813351,813378</branchphone>
+        <branchmobile>01755579276</branchmobile>
+        <branchemail>manager.khl@onebankbd.com</branchemail>
+        <branchlongitude>89.563661</branchlongitude>
+        <branchlattitude>22.816596</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>KUSHTIA BRANCH</branchname>
+        <branchaddress>Khushi Plaza, 0258, NS Road, Kushtia Sadar, Kushtia</branchaddress>
+        <branchphone>071 – 61711, 61712, 61822</branchphone>
+        <branchmobile>01766667020</branchmobile>
+        <branchemail>manager.kushtia@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>LAKSHAM BRANCH</branchname>
+        <branchaddress>Mojumder Complex, 972, Doulatgonj Bazar, Laksham, Comilla</branchaddress>
+        <branchphone>(88-08032)-51970, 51971</branchphone>
+        <branchmobile>01730319833</branchmobile>
+        <branchemail>manager.laksham@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Lakshmipur SME / Agriculture Branch</branchname>
+        <branchaddress>Sky Touch Tower,1305, Bazar Road,Lakshmipur Sadar,Lakshmipur</branchaddress>
+        <branchphone>0381 - 62875, 62876</branchphone>
+        <branchmobile>01766667022</branchmobile>
+        <branchemail>manager.lakshmipur@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>LALBAGH BRANCH</branchname>
+        <branchaddress>47, Horonath Ghosh Road, Lalbagh, Dhaka</branchaddress>
+        <branchphone>9668939, 9672748, 9672713</branchphone>
+        <branchmobile>01755594071</branchmobile>
+        <branchemail>manager:lbb@onebankbd.com</branchemail>
+        <branchlongitude>90.390101</branchlongitude>
+        <branchlattitude>23.719813</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>Laldighirpar Branch</branchname>
+        <branchaddress>1827 &amp;2324, ward-14, Laldgirpar, Sylhet.</branchaddress>
+        <branchphone>0821-716209,712778,714284</branchphone>
+        <branchmobile>01730353517</branchmobile>
+        <branchemail>manager.ldp@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>Madhabdi Branch</branchname>
+        <branchaddress>355, Madhabdi Bazar (Bot Tola) Narsingdi</branchaddress>
+        <branchphone>(88-02)-9446885-87</branchphone>
+        <branchmobile>01730736294</branchmobile>
+        <branchemail>manager.madhabdi@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>MAIJDEE COURT BRANCH</branchname>
+        <branchaddress>1241 &amp; 1459, Main Road, Maijdee Court, Noakhali</branchaddress>
+        <branchphone>(88-0321)-71255</branchphone>
+        <branchmobile>01730319831</branchmobile>
+        <branchemail>manager.maijdeecourt@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>MANDARI BAZAR BRANCH</branchname>
+        <branchaddress>Lakshmipur Bank Road,Mandari Bazar, Lakshmipur.</branchaddress>
+        <branchphone>0381-55012,55013,55779</branchphone>
+        <branchmobile>01755594072</branchmobile>
+        <branchemail>manager.mbb@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>MAWNA BRANCH</branchname>
+        <branchaddress>Salam Fakir Super Market, </branchaddress>
+    </branch>
+    <branch>
+        <branchname>MIRPUR BRANCH</branchname>
+        <branchaddress>Plot No. 2, Road No. 1, Section No. 6, Block No. C, Mirpur-11, Dhaka</branchaddress>
+        <branchphone>(88-02)-9012969, 8035232, 8031406</branchphone>
+        <branchmobile>01714017818</branchmobile>
+        <branchemail>manager.mirpur@onebank.com.bd</branchemail>
+        <branchlongitude>90.36611</branchlongitude>
+        <branchlattitude>23.814657</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>MITHACHARA BRANCH</branchname>
+        <branchaddress>Mithachara Islamia Fazil Madrasa Market, Mithachara Bazar, Mirsarai, Chittagong</branchaddress>
+        <branchphone>03024 – 56048, 56049, 56050</branchphone>
+        <branchmobile>01766667018</branchmobile>
+        <branchemail>manager.mithachara@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Moghbazar Branch</branchname>
+        <branchaddress>Erra Tower 1/B, Outer Circular Road, Moghbazar Wireless, Ramna, Dhaka - l2I7</branchaddress>
+        <branchphone>(88-02)-8319562, 8319570, 8319584</branchphone>
+        <branchmobile>01730736295</branchmobile>
+        <branchemail>manager.moghbazar@onebank.com.bd</branchemail>
+        <branchlongitude>90.419888</branchlongitude>
+        <branchlattitude>23.749216</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>Mohammadpur Girls High School Booth BRANCH</branchname>
+        <branchaddress>Nurjahan Road, Mohammadpur, Dhaka.</branchaddress>
+        <branchmobile>01755594060</branchmobile>
+    </branch>
+    <branch>
+        <branchname>MOTIJHEEL BRANCH</branchname>
+        <branchaddress>Sharif Mansion (Ground Floor), 56-57, Motijheel C/A, Dhaka</branchaddress>
+        <branchphone>(88-02)-9564191, 9566896, 9570544</branchphone>
+        <branchmobile>01730098659</branchmobile>
+        <branchemail>manager.motijheel@onebank.com.bd</branchemail>
+        <branchlongitude>90.4088</branchlongitude>
+        <branchlattitude>23.738896</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>NANDIPARA BRANCH</branchname>
+        <branchaddress>34 Moddho Nandipara, Dakshingaon</branchaddress>
+    </branch>
+    <branch>
+        <branchname>NANUPUR BRANCH</branchname>
+        <branchaddress>Central Plaza, Nanupur Bazar, Fatickchari, Chittagong</branchaddress>
+        <branchphone>(88)-04436140511-14</branchphone>
+        <branchmobile>01730323092</branchmobile>
+        <branchemail>manager.nanupurbazar@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>NARAYANGONJ BRANCH</branchname>
+        <branchaddress>Haque Plaza, Plot 05, B.B. Road, Chashara C.A.Narayangonj</branchaddress>
+        <branchphone>(88-02)-7648572-73</branchphone>
+        <branchmobile>01713066202</branchmobile>
+        <branchemail>manager.narayangonj@onebank.com.bd</branchemail>
+        <branchlongitude>90.500935</branchlongitude>
+        <branchlattitude>23.625936</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>NAWABGONJ BRANCH</branchname>
+        <branchaddress>Sikdar Plaza, Bagmara Bazar, Nawabgonj, Dhaka, Bangladesh</branchaddress>
+        <branchphone>01730082799</branchphone>
+        <branchmobile>01730082799</branchmobile>
+        <branchemail>manager.nawabgonj@onebank.com.bd</branchemail>
+        <branchlongitude>90.164581</branchlongitude>
+        <branchlattitude>23.65514</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>NCC BOOTH BRANCH</branchname>
+        <branchaddress>Narayangonj</branchaddress>
+        <branchmobile>NA</branchmobile>
+    </branch>
+    <branch>
+        <branchname>NHA BOOTH BRANCH</branchname>
+        <branchaddress>82, Segunbagicha, Dhaka - 1000</branchaddress>
+        <branchphone>NA</branchphone>
+        <branchmobile>NA</branchmobile>
+        <branchemail>NA</branchemail>
+    </branch>
+    <branch>
+        <branchname>PARBATIPUR BOOTH BRANCH</branchname>
+        <branchaddress>Dist : Dinajpur, P.O : Parbatipur, Moja : Rampur, S.A Khatian no : 3, S.A Plot no : 3011</branchaddress>
+        <branchmobile>1111111</branchmobile>
+    </branch>
+    <branch>
+        <branchname>PORADAHA BRANCH</branchname>
+        <branchaddress>Chairman Tower</branchaddress>
+        <branchmobile>01777734343</branchmobile>
+        <branchemail>manager.poradaha@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>PORT BOOTH 1 BRANCH</branchname>
+        <branchmobile>11111</branchmobile>
+    </branch>
+    <branch>
+        <branchname>PORT BOOTH 2 BRANCH</branchname>
+        <branchmobile>111</branchmobile>
+    </branch>
+    <branch>
+        <branchname>PORT BOOTH 3 BRANCH</branchname>
+        <branchmobile>111</branchmobile>
+    </branch>
+    <branch>
+        <branchname>PRINCIPAL BRANCH</branchname>
+        <branchaddress>45, Dilkusha C.A, Dhaka</branchaddress>
+        <branchphone>(8802)-9564249</branchphone>
+        <branchmobile>01730353522</branchmobile>
+        <branchemail>manager.principal@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>PROGOTI SHARANI BRANCH</branchname>
+        <branchaddress>Ridge Dale, Cha-75/2</branchaddress>
+        <branchphone>(88-02)-8816648, 8813755, 8814175</branchphone>
+        <branchmobile>01730353525</branchmobile>
+        <branchemail>m.rahman.mostafiz@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>RAIPUR BRANCH</branchname>
+        <branchaddress>Sattar Complex (1st Floor), 187, Thana Council Road, Raipur, Laxmipur</branchaddress>
+        <branchphone>(88-03822)-56479, 56489</branchphone>
+        <branchmobile>01714134974</branchmobile>
+        <branchemail>manager.raipur@onebank.com.bd</branchemail>
+        <branchlongitude>90.767743</branchlongitude>
+        <branchlattitude>23.036772</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>RAJSHAHI BRANCH</branchname>
+        <branchaddress>40, Malopara, Emaduddin Road, Rajshahi</branchaddress>
+        <branchphone>(88-0721)-770495</branchphone>
+        <branchmobile>01730353528</branchmobile>
+        <branchemail>manager.rajshahi@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>RAMGONJ BRANCH</branchname>
+        <branchaddress>Nur Plaza, 378/1, Uttara Bazar, Main Road, Ramganj, Laxmipur</branchaddress>
+        <branchphone>(88-03824)-75041</branchphone>
+        <branchmobile>01730319832</branchmobile>
+        <branchemail>manager.ramgonj@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Rangamati Branch</branchname>
+        <branchaddress>H. B. Plaza, 72/Ma, Banarupa Bazar, Rangamati</branchaddress>
+        <branchphone>(88-0351)-61701-2, 61741</branchphone>
+        <branchmobile>01730736293</branchmobile>
+        <branchemail>manager.rangamati@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>Rangpur Branch</branchname>
+        <branchaddress>Shah Bari Tower, 286 Station Road, Guptapara, Rangpur</branchaddress>
+        <branchphone>0521-55081,55082,55083</branchphone>
+        <branchmobile>01755579275</branchmobile>
+        <branchemail>manager.rnp@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>RANIRHAT BRANCH</branchname>
+        <branchaddress>Ferdous Shopping Complex Ranirhat, Rajnagar Rangunia, Chittagong</branchaddress>
+        <branchphone>01755594064</branchphone>
+        <branchmobile>01755594064</branchmobile>
+        <branchemail>manager.ranirhat@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>RAOZAN BRANCH</branchname>
+        <branchaddress>Al-Baraka Mazda Bhaban 10/742 Munshirghata Raozan, Chittagong</branchaddress>
+        <branchphone>03026-56474-76</branchphone>
+        <branchmobile>01755594063</branchmobile>
+        <branchemail>manager.rzn@onebankbd.com</branchemail>
+    </branch>
+    <branch>
+        <branchname>Ring Road Branch</branchname>
+        <branchaddress>Shampa Super Market( 1st Floor) 6/7 Adarsha Chayaneer, Ring Road, Shamoli, Dhaka.</branchaddress>
+        <branchphone>8802-9104551,9104552,9104553</branchphone>
+        <branchmobile>01755594060</branchmobile>
+        <branchemail>manager.rrb@onebankbd.com</branchemail>
+        <branchlongitude>90.3605</branchlongitude>
+        <branchlattitude>23.772662</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SATKHIRA BRANCH</branchname>
+        <branchaddress>Mehedi Super Market 480, Boro Bazar Sarak, Pransayer Satkhira - 9400 Satkhira - 9400</branchaddress>
+        <branchphone>(88-0471)-63898, 63910, 63911</branchphone>
+        <branchmobile>01730736291</branchmobile>
+        <branchemail>manager.satkhira@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>SHAHJADPUR BRANCH</branchname>
+        <branchaddress>Mawlana Saifuddin Yahia Super Market (1st Floor), 138, Monirampur Bazar, Shahjadpur, Sirajgonj</branchaddress>
+        <branchphone>(88-07527)-64045-46</branchphone>
+        <branchmobile>01730353529</branchmobile>
+        <branchemail>manager.shahjadpur@onebank.com.bd</branchemail>
+        <branchlongitude>89.595919</branchlongitude>
+        <branchlattitude>24.175536</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SHERPUR BRANCH</branchname>
+        <branchaddress>Royel Market (1st Floor), Sherpur, Chowmuhani, Moulvi Bazar</branchaddress>
+        <branchphone>02-----</branchphone>
+        <branchmobile>01713458183</branchmobile>
+        <branchemail>manager.sherpur@onebank.com.bd</branchemail>
+        <branchlongitude>91.678401</branchlongitude>
+        <branchlattitude>24.626163</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SIRAJGONJ BRANCH</branchname>
+        <branchaddress>Mostofa Plaza, 104 S. S. Road, Sirajgonj Sadar, Sirajgonj</branchaddress>
+        <branchphone>(88-0751)-62291-92</branchphone>
+        <branchmobile>01713461185</branchmobile>
+        <branchemail>manager.sirajgonj@onebank.com.bd</branchemail>
+        <branchlongitude>89.706066</branchlongitude>
+        <branchlattitude>24.457611</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>Sitakunda Branch</branchname>
+        <branchaddress>BBC Steel Bhaban South Shitalpur, Sitakunda</branchaddress>
+        <branchphone>(88-031)-2780961-63</branchphone>
+        <branchmobile>01730736292</branchmobile>
+        <branchemail>manager.sitakunda@onebank.com.bd</branchemail>
+        <branchlongitude>91.732042</branchlongitude>
+        <branchlattitude>22.453478</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SONARGAON JANAPATH BRANCH</branchname>
+        <branchaddress>ONE Bank Limited</branchaddress>
+        <branchphone>55086731-2</branchphone>
+        <branchmobile>01709646009</branchmobile>
+        <branchemail>manager.sonargaonjanapath@onebank.com.bd</branchemail>
+        <branchlongitude>90.379975</branchlongitude>
+        <branchlattitude>23.874291</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SOUTH ZONE OFFICE BRANCH</branchname>
+        <branchmobile>NA</branchmobile>
+    </branch>
+    <branch>
+        <branchname>SREEPUR BOOTH BRANCH</branchname>
+        <branchaddress>Madina Market, Sreepur, Ganakbari, Ashulia, Dhaka.</branchaddress>
+        <branchphone>NA</branchphone>
+        <branchmobile>NA</branchmobile>
+        <branchemail>NA</branchemail>
+    </branch>
+    <branch>
+        <branchname>STATION ROAD BRANCH</branchname>
+        <branchaddress>Asian SR Hotel, 291 Station Road, Kotowali, Chittagong</branchaddress>
+        <branchphone>2851840, 2851841, 2851842</branchphone>
+        <branchmobile>01777734331</branchmobile>
+        <branchemail>manager.stationroad@onebank.com.bd</branchemail>
+        <branchlongitude>91.828869</branchlongitude>
+        <branchlattitude>22.335655</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SUBARNACHAR BRANCH</branchname>
+        <branchaddress>Bismillah Tower </branchaddress>
+        <branchphone>03228 – 52101-3</branchphone>
+        <branchmobile>01777734335</branchmobile>
+        <branchemail>manager.subarnachar@onebank.com.bd</branchemail>
+        <branchlongitude>91.094879</branchlongitude>
+        <branchlattitude>22.663012</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SYLHET BRANCH</branchname>
+        <branchaddress>Firoz Center, 891/KA, Chouhatta, Sylhet</branchaddress>
+        <branchphone>(88-0821)-725093-94, 725472, 810381</branchphone>
+        <branchmobile>01711438741</branchmobile>
+        <branchemail>manager.sylhet@onebank.com.bd</branchemail>
+        <branchlongitude>91.870008</branchlongitude>
+        <branchlattitude>24.89919</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>SYLHET PASSPORT OFFICE BOOTH BRANCH</branchname>
+        <branchaddress>Holding No. 0717-00, Road No. Jokigonj Road, Ward No. 27, Thana, Moglabazar, Sylhet City Corporation, Sylhet.</branchaddress>
+        <branchphone>NA</branchphone>
+        <branchmobile>01766695463</branchmobile>
+        <branchemail>NA</branchemail>
+        <branchlongitude>91.886523</branchlongitude>
+        <branchlattitude>24.876818</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>TIPU SULTAN ROAD BRANCH</branchname>
+        <branchaddress>50, Tipu Sultan Road, Nawabpur, Dhaka.</branchaddress>
+        <branchphone>9537845 -47</branchphone>
+        <branchmobile>01766667013</branchmobile>
+        <branchemail>manager.tipusultanroad@onebank.com.bd</branchemail>
+        <branchlongitude>90.414105</branchlongitude>
+        <branchlattitude>23.715289</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>Tongi SME/Agriculture Branch</branchname>
+        <branchaddress>Shahjalal Shopping Complex, 1/1 - A, Sahajuddin Sarkar Road, Tongi, Gazipur</branchaddress>
+        <branchphone>(88-02)-9817407-9</branchphone>
+        <branchmobile>01730736348</branchmobile>
+        <branchemail>manager.tongi@onebank.com.bd</branchemail>
+    </branch>
+    <branch>
+        <branchname>UTTARA BRANCH</branchname>
+        <branchaddress>House No.14, Road No. 14B, Sector No. 4, Uttara Model Town, Dhaka</branchaddress>
+        <branchphone>(88-02)-8951447-50</branchphone>
+        <branchmobile>01730074292</branchmobile>
+        <branchemail>manager.uttara@onebank.com.bd</branchemail>
+        <branchlongitude>90.400462</branchlongitude>
+        <branchlattitude>23.865679</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>UTTARA PASSPORT OFFICE BOOTH BRANCH</branchname>
+        <branchaddress>House- 20, Road- 7, Sector- 12, Uttara, Dhaka.</branchaddress>
+        <branchmobile>01766695462</branchmobile>
+        <branchlongitude>90.379967</branchlongitude>
+        <branchlattitude>23.874373</branchlattitude>
+    </branch>
+    <branch>
+        <branchname>ZINZIRA BRANCH</branchname>
+        <branchaddress>Zinzira, Dhaka</branchaddress>
+        <branchlongitude>90.407146</branchlongitude>
+        <branchlattitude>23.709926</branchlattitude>
+    </branch>
+</branches>

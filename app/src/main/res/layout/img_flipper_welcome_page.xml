@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal">
+
+    <ViewFlipper
+        android:id="@+id/view_flipper"
+        android:flipInterval="5000"
+        android:measureAllChildren="false"
+        android:keepScreenOn="true"
+        android:inAnimation="@anim/image_transition_left"
+        android:outAnimation="@anim/image_transition_right"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bg_4" />
+
+            <TextView
+                style="@style/ImageTitle"
+                android:text="ONE Bank Limited (HOME LOAN)" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bg_5" />
+
+            <TextView
+                style="@style/ImageTitle"
+                android:text="ONE Bank Limited (Elegant Saving)" />
+        </RelativeLayout>
+        <!--<RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bg_5" />
+
+            <TextView
+                style="@style/ImageTitle"
+                android:text="ONE Bank Limited (Marry Save)" />
+        </RelativeLayout>-->
+
+    </ViewFlipper>
+
+</RelativeLayout>

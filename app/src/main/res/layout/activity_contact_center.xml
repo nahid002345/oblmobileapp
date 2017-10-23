@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linerToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/liner_call_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:orientation="vertical">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/post_button"
+            android:text="CALL 16269"
+            android:textColor="@color/colorWhite"
+            android:id="@+id/btn_call_primary" />
+        </LinearLayout>
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/liner_cover"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <com.app.obl.oblmobileapp.font.RobotoTextView
+                android:id="@+id/txt_ccenter_header"
+                style="@style/ac_list_header"
+                android:layout_below="@+id/txt_card_bill_date"
+                android:text="Contact Center Services"
+                android:textAlignment="center"
+                android:textSize="16dp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_ccenter_header"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/img_ccenter_time_service"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/dimen_image_pad"
+                    android:src="@drawable/ic_ccenter_time_service" />
+
+                <com.app.obl.oblmobileapp.font.RobotoTextView
+                    android:id="@+id/txt_ccenter_time_service"
+                    style="@style/list_item_label"
+                    android:layout_centerInParent="true"
+                    android:layout_toRightOf="@+id/img_ccenter_time_service"
+                    android:padding="@dimen/dimen_text_pad"
+                    android:text="CUSTOMER 24/7 SERVICE"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="16sp"
+                    app:typeface="robotoLight" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_ccenter_time_service"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/img_ccenter_ac_service"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/dimen_image_pad"
+                    android:src="@drawable/ic_ccenter_ac_servicepng" />
+
+                <com.app.obl.oblmobileapp.font.RobotoTextView
+                    android:id="@+id/txt_ccenter_ac_service"
+                    style="@style/list_item_label"
+                    android:layout_centerInParent="true"
+                    android:layout_toRightOf="@+id/img_ccenter_ac_service"
+                    android:padding="@dimen/dimen_text_pad"
+                    android:text="ACCOUNT SERVICES"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="16sp"
+                    app:typeface="robotoLight" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_ccenter_ac_service"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/img_ccenter_card_service"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/dimen_image_pad"
+                    android:src="@drawable/ic_ccenter_card_service" />
+
+                <com.app.obl.oblmobileapp.font.RobotoTextView
+                    android:id="@+id/txt_ccenter_card_service"
+                    style="@style/list_item_label"
+                    android:layout_centerInParent="true"
+                    android:layout_toRightOf="@+id/img_ccenter_card_service"
+                    android:padding="@dimen/dimen_text_pad"
+                    android:text="CARD SERVICES"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="16sp"
+                    app:typeface="robotoLight" />
+            </RelativeLayout>
+            <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_ccenter_card_service"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/img_ccenter_retail_service"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="center"
+                android:padding="@dimen/dimen_image_pad"
+                android:src="@drawable/ic_ccenter_retail_service" />
+
+            <com.app.obl.oblmobileapp.font.RobotoTextView
+                android:id="@+id/txt_ccenter_retail_service"
+                style="@style/list_item_label"
+                android:layout_centerInParent="true"
+                android:layout_toRightOf="@+id/img_ccenter_retail_service"
+                android:padding="@dimen/dimen_text_pad"
+                android:text="RETAIL DEPOSIT AND LOAN PRODUCT INQUIRIES"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16sp"
+                app:typeface="robotoLight" />
+        </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_ccenter_card_service"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/img_ccenter_snr_service"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_gravity="center"
+                    android:padding="@dimen/dimen_image_pad"
+                    android:src="@drawable/ic_ccenter_snr_service" />
+
+                <com.app.obl.oblmobileapp.font.RobotoTextView
+                    android:id="@+id/txt_ccenter_snr_service"
+                    style="@style/list_item_label"
+                    android:layout_centerInParent="true"
+                    android:layout_toRightOf="@+id/img_ccenter_snr_service"
+                    android:padding="@dimen/dimen_text_pad"
+                    android:text="SME, NRB AND REMITTANCE INQUIRIES"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="16sp"
+                    app:typeface="robotoLight" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_btn_call_center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:src="@drawable/ic_contact_center_black"
+        app:layout_anchor="@id/liner_cover"
+        app:layout_anchorGravity="bottom|right|end"
+        android:layout_gravity="right" />
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>

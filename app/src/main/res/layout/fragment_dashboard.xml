@@ -1,0 +1,82 @@
+<com.app.obl.oblmobileapp.fragment.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe" >
+    <!--  News Feed Button -->
+    <Button
+        android:id="@+id/btn_accounts"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_accounts"
+        android:text="@string/str_btn_account" />
+
+    <!--  Friends Button -->
+    <Button
+        android:id="@+id/btn_loan_account"
+        style="@style/DashboardButton"
+        android:visibility="gone"
+        android:drawableTop="@drawable/ic_loan"
+        android:text="@string/str_btn_loan" />
+
+    <!--  Messages Button -->
+    <Button
+        android:id="@+id/btn_card_credit"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_credit_card"
+        android:text="@string/str_btn_credit_card" />
+
+    <!--  Places Button -->
+    <Button
+        android:id="@+id/btn_fund_transfer"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_fund_transfer"
+        android:text="@string/str_btn_fund_transfer" />
+
+    <!--  Events Button -->
+    <Button
+        android:id="@+id/btn_bill_payment"
+        android:visibility="gone"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_bill_payment"
+        android:text="@string/str_btn_bill_pay" />
+    <Button
+        android:id="@+id/btn_loan_calculator"
+        android:visibility="visible"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_loan_calculator"
+        android:text="@string/str_btn_loan_calculator" />
+
+    <Button
+        android:id="@+id/btn_exchange_rate"
+        android:visibility="visible"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_exchange_rate"
+        android:text="@string/str_btn_exchange_rate" />
+
+    <!--  Photos Button -->
+    <Button
+        android:id="@+id/btn_branch_loc"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_branch_location"
+        android:text="@string/str_btn_branchs" />
+
+    <Button
+        android:id="@+id/btn_atm_loc"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_atm_location"
+        android:text="@string/str_btn_atm_location" />
+
+    <Button
+        android:id="@+id/btn_contact_center"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_contact_center"
+        android:text="@string/str_btn_contact_center" />
+
+    <Button
+        android:id="@+id/btn_logout"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/ic_logout_red"
+        android:text="@string/str_btn_log_out" />
+
+</com.app.obl.oblmobileapp.fragment.DashboardLayout>

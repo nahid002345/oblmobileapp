@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atms>
+    <atm>
+        <atmname>AGRABAD ATM</atmname>
+        <atmaddress>95, Agrabad C.A., Chittagong</atmaddress>
+        <atmdistrict>CHITTAGONG</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.326252</atmlattitude>
+        <atmlongitude>91.81502</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>BANANI ATM</atmname>
+        <atmaddress>Plot 158, Block E, Banani R.A., Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.792668</atmlattitude>
+        <atmlongitude>90.410056</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>BANASREE ATM</atmname>
+        <atmaddress>Al-Kauser Palace, House # 2, Road # 5, Block-D, Banasree R/A, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.757408</atmlattitude>
+        <atmlongitude>90.42826</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>BOGRA ATM</atmname>
+        <atmaddress>Jamil Building, Borogola, Bogra</atmaddress>
+        <atmdistrict>BOGRA</atmdistrict>
+        <atmdivision>RAJSHAHI</atmdivision>
+        <atmlattitude>24.85439</atmlattitude>
+        <atmlongitude>89.372398</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>CDA AVENUE ATM</atmname>
+        <atmaddress>Avenue Center, 787/A, CDA Avenue, East Nasirabad, Kotwali, Chittagong</atmaddress>
+        <atmdistrict>CHITTAGONG</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.357427</atmlattitude>
+        <atmlongitude>91.821718</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>CHOWMUHUNI ATM</atmname>
+        <atmaddress>Bhuiyan Market, D.B. Road, Railgate, Chowmuhuni, Noakhali</atmaddress>
+        <atmdistrict>NOAKHALI</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.945715</atmlattitude>
+        <atmlongitude>91.120782</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>Comilla ATM</atmname>
+        <atmaddress>Habiba Mansion, 358, Monoharpur, Comilla</atmaddress>
+        <atmdistrict>COMILLA</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>23.461193</atmlattitude>
+        <atmlongitude>91.182861</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>CORPORATE HQ ATM</atmname>
+        <atmaddress>HRC Bhaban, 46, Kawranbazar, Dhaka - 1215</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.754106</atmlattitude>
+        <atmlongitude>90.392418</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>COXS BAZAR ATM</atmname>
+        <atmaddress>Monora Complex, East Laldighir Par, Court Hill Lane, Main Road, Coxs Bazar</atmaddress>
+        <atmdistrict>COXSBAZAR</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>21.443438</atmlattitude>
+        <atmlongitude>91.975837</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>DAGON BHUIYAN ATM</atmname>
+        <atmaddress>Khair Shopping Complex, Fazilaer Ghat Road, Dagon Bhuiyan, Feni</atmaddress>
+        <atmdistrict>FENI</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.937072</atmlattitude>
+        <atmlongitude>91.303863</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>DHANMONDI ATM</atmname>
+        <atmaddress>House No. 21, Road No. 8, Dhanmondi R/A, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.74581</atmlattitude>
+        <atmlongitude>90.381506</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>GULSHAN ATM</atmname>
+        <atmaddress>97, Gulshan Avenue, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.787956</atmlattitude>
+        <atmlongitude>90.428938</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>HATHAZARI ATM</atmname>
+        <atmaddress>J &amp; G Shopping Complex, Ramgor Road, Hathazari Bus Station, Hathazari, Chittagong</atmaddress>
+        <atmdistrict>CHITTAGONG</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.49948</atmlattitude>
+        <atmlongitude>91.806687</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>JESSORE ATM</atmname>
+        <atmaddress>M.S. Orchid Centre, 44, M.K. Road, Jessore</atmaddress>
+        <atmdistrict>JESSORE</atmdistrict>
+        <atmdivision>KHULNA</atmdivision>
+        <atmlattitude>23.165124</atmlattitude>
+        <atmlongitude>89.213471</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>JOYPARA ATM</atmname>
+        <atmaddress>Monowara Mansion, Joypara Bazar, Latakhola, Raipara, Dohar, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.618913</atmlattitude>
+        <atmlongitude>90.117951</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>JUBILEE ROAD ATM</atmname>
+        <atmaddress>Kader Tower (2nd Floor), 128, Jubilee Road, Chittagong</atmaddress>
+        <atmdistrict>CHITTAGONG</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.34215</atmlattitude>
+        <atmlongitude>91.836154</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>KAKRAIL ATM</atmname>
+        <atmaddress>Musafir Tower 90, Kakrail, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.709743</atmlattitude>
+        <atmlongitude>90.407213</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>Khulna ATM</atmname>
+        <atmaddress>J.K. Tower, 79 Khan-A-Sabur Road, Picture Palace, Khulna.</atmaddress>
+        <atmdistrict>KHULNA</atmdistrict>
+        <atmdivision>KHULNA</atmdivision>
+        <atmlattitude>22.816596</atmlattitude>
+        <atmlongitude>89.563661</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>LALBAGH ATM</atmname>
+        <atmaddress>47, Horonath Ghosh Road, Lalbagh, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.719813</atmlattitude>
+        <atmlongitude>90.390101</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>MIRPUR ATM</atmname>
+        <atmaddress>Plot No. 2, Road No. 1, Section No. 6, Block No. C, Mirpur-11, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.814657</atmlattitude>
+        <atmlongitude>90.36611</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>Moghbazar ATM</atmname>
+        <atmaddress>Erra Tower 1/B, Outer Circular Road, Moghbazar Wireless, Ramna, Dhaka - l2I7</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.749216</atmlattitude>
+        <atmlongitude>90.419888</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>MOTIJHEEL ATM</atmname>
+        <atmaddress>Sharif Mansion (Ground Floor), 56-57, Motijheel C/A, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.738896</atmlattitude>
+        <atmlongitude>90.4088</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>NARAYANGONJ ATM</atmname>
+        <atmaddress>Haque Plaza, Plot 05, B.B. Road, Chashara C.A.Narayangonj</atmaddress>
+        <atmdistrict>NARAYANGONJ</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.625936</atmlattitude>
+        <atmlongitude>90.500935</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>NAWABGONJ ATM</atmname>
+        <atmaddress>Sikdar Plaza, Bagmara Bazar, Nawabgonj, Dhaka, Bangladesh</atmaddress>
+        <atmdistrict>NAWABGONJ</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.65514</atmlattitude>
+        <atmlongitude>90.164581</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>RAIPUR ATM</atmname>
+        <atmaddress>Sattar Complex (1st Floor), 187, Thana Council Road, Raipur, Laxmipur</atmaddress>
+        <atmdistrict>LAKSHMIPUR</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>23.036772</atmlattitude>
+        <atmlongitude>90.767743</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>Ring Road ATM</atmname>
+        <atmaddress>Shampa Super Market( 1st Floor) 6/7 Adarsha Chayaneer, Ring Road, Shamoli, Dhaka.</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.772662</atmlattitude>
+        <atmlongitude>90.3605</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SHAHJADPUR ATM</atmname>
+        <atmaddress>Mawlana Saifuddin Yahia Super Market (1st Floor), 138, Monirampur Bazar, Shahjadpur, Sirajgonj</atmaddress>
+        <atmdistrict>SIRAJGONJ</atmdistrict>
+        <atmdivision>RAJSHAHI</atmdivision>
+        <atmlattitude>24.175536</atmlattitude>
+        <atmlongitude>89.595919</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SHERPUR ATM</atmname>
+        <atmaddress>Royel Market (1st Floor), Sherpur, Chowmuhani, Moulvi Bazar</atmaddress>
+        <atmdistrict>MOULVI BAZAR</atmdistrict>
+        <atmdivision>SYLHET</atmdivision>
+        <atmlattitude>24.626163</atmlattitude>
+        <atmlongitude>91.678401</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SIRAJGONJ ATM</atmname>
+        <atmaddress>Mostofa Plaza, 104 S. S. Road, Sirajgonj Sadar, Sirajgonj</atmaddress>
+        <atmdistrict>SIRAJGONJ</atmdistrict>
+        <atmdivision>RAJSHAHI</atmdivision>
+        <atmlattitude>24.457611</atmlattitude>
+        <atmlongitude>89.706066</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>Sitakunda ATM</atmname>
+        <atmaddress>BBC Steel Bhaban South Shitalpur, Sitakunda</atmaddress>
+        <atmdistrict>CHITTAGONG</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.453478</atmlattitude>
+        <atmlongitude>91.732042</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SONARGAON JANAPATH ATM</atmname>
+        <atmaddress>ONE Bank Limited</atmaddress>
+        <atmlattitude>23.874291</atmlattitude>
+        <atmlongitude>90.379975</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>STATION ROAD ATM</atmname>
+        <atmaddress>Asian SR Hotel, 291 Station Road, Kotowali, Chittagong</atmaddress>
+        <atmdistrict>CHITTAGONG</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.335655</atmlattitude>
+        <atmlongitude>91.828869</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SUBARNACHAR ATM</atmname>
+        <atmaddress>Bismillah Tower </atmaddress>
+        <atmdistrict>NOAKHALI</atmdistrict>
+        <atmdivision>CHITTAGONG</atmdivision>
+        <atmlattitude>22.663012</atmlattitude>
+        <atmlongitude>91.094879</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SYLHET ATM</atmname>
+        <atmaddress>Firoz Center, 891/KA, Chouhatta, Sylhet</atmaddress>
+        <atmdistrict>SYLHET</atmdistrict>
+        <atmdivision>SYLHET</atmdivision>
+        <atmlattitude>24.89919</atmlattitude>
+        <atmlongitude>91.870008</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>SYLHET PASSPORT OFFICE BOOTH ATM</atmname>
+        <atmaddress>Holding No. 0717-00, Road No. Jokigonj Road, Ward No. 27, Thana, Moglabazar, Sylhet City Corporation, Sylhet.</atmaddress>
+        <atmdistrict>SYLHET</atmdistrict>
+        <atmdivision>SYLHET</atmdivision>
+        <atmlattitude>24.876818</atmlattitude>
+        <atmlongitude>91.886523</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>TIPU SULTAN ROAD ATM</atmname>
+        <atmaddress>50, Tipu Sultan Road, Nawabpur, Dhaka.</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.715289</atmlattitude>
+        <atmlongitude>90.414105</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>UTTARA ATM</atmname>
+        <atmaddress>House No.14, Road No. 14B, Sector No. 4, Uttara Model Town, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.865679</atmlattitude>
+        <atmlongitude>90.400462</atmlongitude>
+    </atm>
+    <atm>
+        <atmname>ZINZIRA ATM</atmname>
+        <atmaddress>Zinzira, Dhaka</atmaddress>
+        <atmdistrict>DHAKA</atmdistrict>
+        <atmdivision>DHAKA</atmdivision>
+        <atmlattitude>23.709926</atmlattitude>
+        <atmlongitude>90.407146</atmlongitude>
+    </atm>
+</atms>

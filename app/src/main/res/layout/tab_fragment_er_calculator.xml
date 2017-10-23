@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rel_er_cal_input"
+            style="@style/PageFormStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin">
+
+            <EditText
+                android:id="@+id/txt_er_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/str_lbl_er_amount"
+                android:imeOptions="actionUnspecified"
+                android:inputType="number|numberDecimal"
+                android:maxLines="1"
+                android:singleLine="true" />
+
+            <Spinner
+                android:id="@+id/sp_er_currency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_er_amount"
+                android:layout_marginTop="30dp"
+                android:entries="@array/exchange_rate_currency"
+                android:prompt="@string/option_select" />
+
+
+            <Spinner
+                android:id="@+id/sp_er_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sp_er_currency"
+                android:layout_marginTop="30dp"
+                android:entries="@array/exchange_rate_type"
+                android:prompt="@string/option_select" />
+
+            <Button
+                android:id="@+id/btn_er_calculate"
+                style="@style/post_button"
+                android:layout_width="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/sp_er_type"
+                android:padding="@dimen/dimen_text_pad"
+                android:text="Calculate" />
+
+            <Button
+                android:id="@+id/btn_er_cal_reset"
+                style="@style/post_button"
+                android:layout_width="wrap_content"
+                android:layout_alignBaseline="@+id/btn_er_calculate"
+                android:layout_marginRight="@dimen/fab_margin"
+                android:layout_toLeftOf="@+id/btn_er_calculate"
+                android:text="@string/reset" />
+
+            <RelativeLayout
+                android:id="@+id/rl_er_cal_result"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btn_er_calculate"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/detail_header_border_shadow"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/imgProfIcon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:padding="@dimen/dimen_image_pad"
+                    android:src="@drawable/ic_er_result" />
+
+                <com.app.obl.oblmobileapp.font.RobotoTextView
+                    android:id="@+id/txt_er_total_amt"
+                    style="@style/list_item_label"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="0"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="30dp"
+                    app:typeface="robotoBold" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

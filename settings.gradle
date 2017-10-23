@@ -1,0 +1,1 @@
+include ':app', ':httpclient-4.5.1', ':httpcore-4.4.3', ':listviewanimations_lib-core_3.1.0', ':nineoldandroids-2.4.0'

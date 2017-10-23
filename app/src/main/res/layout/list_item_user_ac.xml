@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rLayout_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="@color/colorWhite">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_image_pad"
+            android:id="@+id/imgIcon"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/ic_accounts_list"/>
+
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txtACNo"
+            app:typeface="robotoMedium"
+            android:layout_toRightOf="@id/imgIcon"
+            android:text="xxxxxx"
+            android:textSize="16dp"
+            style="@style/list_item_text"/>
+
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txtACName"
+            app:typeface="robotoThin"
+            android:layout_toRightOf="@id/imgIcon"
+            android:layout_below="@id/txtACNo"
+            android:textSize="14dp"
+            android:text="xxxxxx"
+            style="@style/list_item_text"/>
+
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            app:typeface="robotoBold"
+            android:id="@+id/txtACBal"
+            android:layout_toRightOf="@id/imgIcon"
+            android:layout_below="@id/txtACName"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/colorWhite"
+            android:textSize="18dp"
+
+            style="@style/list_item_text"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="40dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/list_check"
+            android:src="@drawable/ic_play_light"
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+             />
+    </RelativeLayout>
+
+</RelativeLayout>

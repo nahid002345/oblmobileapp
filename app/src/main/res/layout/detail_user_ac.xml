@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:padding="10dp"
+        android:id="@+id/rLayout_header"
+        android:layout_width="fill_parent"
+        android:background="@drawable/detail_header_border_shadow"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_image_pad"
+            android:id="@+id/imgProfIcon"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/ic_account_profile"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_header_ac_no"
+            app:typeface="robotoLight"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:textSize="16sp"
+            android:textColor="@color/colorPrimaryDark"
+            style="@style/list_item_label"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_header_bal"
+            app:typeface="robotoBoldCondensed"
+            android:layout_below="@id/txt_header_ac_no"
+            android:layout_alignParentRight="true"
+            android:textSize="25sp"
+            android:textColor="@color/colorPrimaryDark"
+            style="@style/list_item_label"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_header_currency"
+            app:typeface="robotoBoldCondensed"
+            android:layout_below="@id/txt_header_ac_no"
+            android:layout_toLeftOf="@id/txt_header_bal"
+            android:text="৳"
+            android:textSize="25sp"
+            android:textColor="@color/colorPrimaryDark"
+            style="@style/list_item_label"/>
+
+
+    </RelativeLayout>
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rLayout_header"
+        android:layout_weight="1">
+    <RelativeLayout
+        android:padding="10dp"
+        android:layout_below="@id/rLayout_header"
+        android:id="@+id/rLayout_text"
+        android:layout_width="wrap_content"
+        android:background="@drawable/detail_header_border_shadow"
+        android:layout_height="wrap_content">
+
+
+
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/labelAccountName"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:text="A/C Name: "
+            style="@style/list_item_label"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_detail_ACName"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/labelAccountName"
+            style="@style/list_item_text"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/labelAccountType"
+            android:layout_below="@id/labelAccountName"
+            android:layout_alignParentLeft="true"
+            android:text="A/C Type: "
+            style="@style/list_item_label"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_detail_ACType"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/labelAccountName"
+            android:layout_alignRight="@id/labelAccountType"
+            style="@style/list_item_text"/>
+
+        <com.app.obl.oblmobileapp.font.MaterialDesignIconsTextView
+            android:id="@+id/labelACBal"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/labelAccountType"
+            android:text="Available Balance: "
+            style="@style/list_item_label"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_detail_ACBal"
+            android:layout_below="@id/labelAccountType"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/labelAccountName"
+            style="@style/list_item_text"/>
+
+        <com.app.obl.oblmobileapp.font.FontelloTextView
+            android:id="@+id/labelACCurBal"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/labelACBal"
+            android:text="Current Balance: "
+            style="@style/list_item_label"/>
+        <com.app.obl.oblmobileapp.font.RobotoTextView
+            android:id="@+id/txt_detail_CurrentBal"
+            android:layout_below="@id/labelACBal"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/labelAccountName"
+            style="@style/list_item_text"/>
+    </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

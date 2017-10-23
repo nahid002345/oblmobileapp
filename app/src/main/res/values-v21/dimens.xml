@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_toolbar_pad_bottom">20dp</dimen>
+    <dimen name="account_header_image">64dp</dimen>
+    <dimen name="dimen_nav_drawer_text_size">16sp</dimen>
+    <dimen name="dimen_nav_drawer_item_padding">10dp</dimen>
+    <dimen name="dimen_dialog_middle_btn_margin_left">100dp</dimen>
+</resources>

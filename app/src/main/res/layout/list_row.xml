@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_row_selector">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/headerImage"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/account_header_image"
+            android:layout_alignParentTop="true"
+            android:background="@color/black_overlay"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_profile" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorGrey">
+
+        <TextView
+            android:id="@+id/labelAccountNo"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:text="A/C No: "
+            style="@style/list_item_label"/>
+        <TextView
+            android:id="@+id/txtACNo"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/labelAccountNo"
+            style="@style/list_item_text"/>
+        <TextView
+            android:id="@+id/labelAccountName"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/labelAccountNo"
+            android:text="A/C Name: "
+            style="@style/list_item_label"/>
+        <TextView
+            android:id="@+id/txtACName"
+            android:layout_below="@id/labelAccountNo"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/labelAccountName"
+            style="@style/list_item_text"/>
+        <TextView
+            android:id="@+id/labelACBal"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/labelAccountName"
+            android:text="Balance: "
+            style="@style/list_item_label"/>
+        <TextView
+            android:id="@+id/txtACBal"
+            android:layout_below="@id/labelAccountName"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/labelAccountName"
+            style="@style/list_item_text"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Detail"
+            android:id="@+id/btn_detail"
+            style="@style/post_button"
+            android:layout_below="@+id/txtACBal"
+            android:layout_marginLeft="5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Transaction"
+            style="@style/post_button"
+            android:id="@+id/btn_tran"
+            android:layout_marginRight="5dp"
+            android:layout_below="@+id/labelACBal"
+            android:layout_alignParentRight="true" />
+        <!--
+                &lt;!&ndash; Genre &ndash;&gt;
+                <TextView
+                    android:id="@+id/genre"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/rating"
+                    android:layout_marginTop="5dp"
+                    android:textSize="@dimen/genre" />
+
+                &lt;!&ndash; Release Year &ndash;&gt;
+                <TextView
+                    android:id="@+id/releaseYear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:textSize="@dimen/year" />-->
+    </RelativeLayout>
+</LinearLayout>
+</RelativeLayout>
